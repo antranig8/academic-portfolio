@@ -7,7 +7,9 @@ The course focuses on Java fundamentals, OOP concepts, file I/O, debugging, test
 
 ### 1. [ESP Game](ESPGame/)
 A simple command-line guessing game that demonstrates file handling, user interaction, loops, conditionals, and exporting runnable applications (JAR and EXE).
-
+---
+### 2. [Patient Management](PatientApp/)
+A multi-class project demonstrating constructors, accessors/mutators, data formatting, composition, and basic charge calculations.
 ---
 
 More projects will be added as I complete them.
