@@ -44,20 +44,22 @@ This folder contains implementations and applications of fundamental data struct
 
 ---
 ### CMSC203 – Object-Oriented Programming
-Projects in this course highlight:
-- **Inheritance, interfaces, polymorphism**
+This folder contains projects focused on foundational Java programming and object-oriented principles.
+
+#### Course topics include:
+- **Inheritance, interfaces, and polymorphism**
 - **Aggregation & encapsulation**
 - **Exception handling & input validation**
 - **Sorting and searching algorithms**
 - **File I/O**
 - **Menu-driven command-line applications**
 
-Representative projects include:
-- **ESP Game**
-- **Patient Management System**
-- **CryptoManager**
-- **Bob’s Circus Management System**
-- Additional assigned modules and Java utilities
+#### Concepts demonstrated:
+- Class design and modular organization  
+- Overriding and interface implementation  
+- Error handling using try/catch  
+- Working with arrays and ArrayLists  
+- Building multi-class systems with clear responsibilities
 
 ---
 
