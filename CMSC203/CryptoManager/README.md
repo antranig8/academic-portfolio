@@ -39,6 +39,11 @@ Returns an error message if the string is out of bounds.
 Decrypts Playfair-encrypted text back into plaintext.
 
 ---
+## Download
+
+A self-contained Windows build (no Java or JavaFX required) is available here:
+
+[Download CryptoManager for Windows](https://github.com/antranig8/academic-portfolio/releases/tag/cmsc203-crypto-v1)
 
 ## src/
 - `CryptoManager.java`

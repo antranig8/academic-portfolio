@@ -11,5 +11,8 @@ A simple command-line guessing game that demonstrates file handling, user intera
 ### 2. [Patient Management](PatientApp/)
 A multi-class project demonstrating constructors, accessors/mutators, data formatting, composition, and basic charge calculations.
 ---
+### 3. [CryptoManager](CryptoManager/)
+Implements Vigenere and Playfair ciphers using Java, featuring string validation, encryption/decryption logic, a provided JavaFX GUI, and custom JUnit tests. Includes a runnable Windows app-image for easy execution.
+---
 
 More projects will be added as I complete them.
