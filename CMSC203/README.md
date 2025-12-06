@@ -7,21 +7,27 @@ The course focuses on Java fundamentals, OOP concepts, file I/O, debugging, test
 
 ### 1. [ESP Game](ESPGame/)
 A simple command-line guessing game that demonstrates file handling, user interaction, loops, conditionals, and exporting runnable applications (JAR and EXE).
+
 ---
 ### 2. [Patient Management](PatientApp/)
 A multi-class project demonstrating constructors, accessors/mutators, data formatting, composition, and basic charge calculations.
+
 ---
 ### 3. [CryptoManager](CryptoManager/)
 Implements Vigenere and Playfair ciphers using Java, featuring string validation, encryption/decryption logic, a provided JavaFX GUI, and custom JUnit tests. Includes a runnable Windows app-image for easy execution. A standalone Windows executable is available in the releases for easy testing.
+
 ---
 ### 4. [PropertyManagementSystem](PropertyManagementSystem/)
 A multi-class application that manages a collection of properties for a real estate company.
 This project demonstrates object composition, encapsulation, validation of input data, boundary checking, and working with arrays to store and evaluate multiple Property objects.
 It includes calculations for rent totals, determining occupied plots, and enforcing management company rules using dedicated classes. A standalone Windows executable is available in the releases for easy testing.
+
 ---
 ### 5. [HolidayBonus](HolidayBonus/)
 A JavaFX application that loads ragged sales data from text files and calculates holiday bonuses using highest/lowest category rules. It demonstrates ragged array processing, file I/O, and integrating utility classes with a GUI. A standalone Windows executable is available in the releases.
+
 ---
 ### 6. [BobsCircus](BobsCircus/)
-A command-line management system that models Bob’s Circus using inheritance, interfaces, and aggregation. It includes adding and displaying animals, persons, and buildings, sorting and searching animals, and generating tickets with discounts. A standalone console executable is available in the releases.
+A command-line management system that models Bob’s Circus using inheritance, interfaces, and aggregation. It includes adding and displaying animals, persons, and buildings, sorting and searching animals, and generating tickets with discounts. A standalone console executable is available in the releases. 
+
 ---
