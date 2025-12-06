@@ -23,5 +23,5 @@ It includes calculations for rent totals, determining occupied plots, and enforc
 A JavaFX application that loads ragged sales data from text files and calculates holiday bonuses using highest/lowest category rules. It demonstrates ragged array processing, file I/O, and integrating utility classes with a GUI. A standalone Windows executable is available in the releases.
 ---
 ### 6. [BobsCircus](BobsCircus/)
-
+A command-line management system that models Bob’s Circus using inheritance, interfaces, and aggregation. It includes adding and displaying animals, persons, and buildings, sorting and searching animals, and generating tickets with discounts. A standalone console executable is available in the releases.
 ---
