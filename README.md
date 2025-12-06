@@ -22,7 +22,7 @@ Each project folder includes:
 
 ## Course Work Included
 
-### CMSC204 – Data Structures & Algorithms
+### [CMSC204](CMSC204/) – Data Structures & Algorithms
 This folder contains implementations and applications of fundamental data structures.
 
 #### Course topics include:
@@ -43,7 +43,7 @@ This folder contains implementations and applications of fundamental data struct
 - Building applications using custom-built data structures 
 
 ---
-### CMSC203 – Object-Oriented Programming
+### [CMSC203](CMSC203/) – Object-Oriented Programming
 This folder contains projects focused on foundational Java programming and object-oriented principles.
 
 #### Course topics include:
