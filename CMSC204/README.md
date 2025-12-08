@@ -11,7 +11,7 @@ The course focuses on:
 
 ## Projects
 
-### 1. [UserAccessManager](UserAccessManager/)
+### 1. [UserAccessManager](Projects/UserAccessManager/)
 A console-based authentication system that manages user accounts, enforces password rules, handles failed login attempts, and locks accounts after repeated failures.  
 Implements:
 - Custom exceptions for invalid commands, duplicate users, locked accounts, and bad passwords  
@@ -19,7 +19,7 @@ Implements:
 - File loading and command-line driven user management
 
 ---
-### 2. [WarehouseOrderSimulation](WarehouseOrderSimulation/)
+### 2. [WarehouseOrderSimulation](Projects/WarehouseOrderSimulation/)
 A full simulation of a warehouse shipping system using **a priority queue and stack built entirely from scratch**.  
 Implements:
 - Array-based generic priority queue (no Java Collections allowed)  
@@ -28,7 +28,7 @@ Implements:
 - Late orders pushed to a return stack
 
 ---
-### 3. [SpotifyAppSim](SpotifyAppSim/)
+### 3. [SpotifyAppSim](Projects/SpotifyAppSim/)
 A simplified Spotify-style playlist manager using a fully custom **GenericLinkedList** with a bidirectional ListIterator.  
 Features:
 - Linked list implementation from the ground up  
@@ -37,7 +37,7 @@ Features:
 - Custom exceptions for user validation and loading errors
 
 ---
-### 4. [DictionaryBuilder](DictionaryBuilder/)
+### 4. [DictionaryBuilder](Projects/DictionaryBuilder/)
 A full dictionary/concordance tool built on a **hash table with separate chaining** using custom linked lists.  
 Functions include:
 - Parsing text files and counting word frequencies  
@@ -46,7 +46,7 @@ Functions include:
 - Completely manual collision handling—no built-in collections permitted for buckets
 
 ---
-### 5. [MorseCodeConverter](MorseCodeConverter/)
+### 5. [MorseCodeConverter](Projects/MorseCodeConverter/)
 A Morse code → English converter built using a **binary tree constructed manually from provided mappings**.  
 Includes:
 - Generic TreeNode class  
@@ -54,7 +54,7 @@ Includes:
 - File and string-based conversion interface  
 
 ---
-### 6. [TownGraph](TownGraph/)
+### 6. [TownGraph](Projects/TownGraph/)
 A graph-based mapping system that applies **Dijkstra’s Shortest Path Algorithm** to determine routes between towns.  
 Implements:
 - Graph using adjacency structures  
