@@ -1,0 +1,13 @@
+# USER
+username: antranig
+password: cmsc204
+playlist: MyPlaylist
+song: Hotline Bling - Drake
+song: Blinding Lights - The Weeknd
+# USER
+username: test
+password: password
+playlist: Rock
+song: Bohemian Rhapsody - Queen
+playlist: Pop
+song: Hotline Bling - Drake
